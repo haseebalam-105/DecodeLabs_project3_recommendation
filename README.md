@@ -1,0 +1,2 @@
+Project 3 — AI Recommendation Logic (project3_recommendation.py)
+Content-based Tech Stack Recommender built from scratch (no sklearn) — demonstrates the exact theory from the slides. Implements TF-IDF weighting to penalize generic terms, cosine similarity for magnitude-invariant scoring, and the full 4-step pipeline (Ingestion → Scoring → Sorting → Top-3 Filtering). No external dependencies — pure Python math. The recommender correctly ranked "Machine Learning Engineer → Data Scientist → AI Research Scientist" for Python/ML/TensorFlow skills.
